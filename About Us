@@ -1,47 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>About Us</title>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Us</title>
 
-			<!-- Custom styles for this template go here -->
-				<link rel="stylesheet" href="css/about_styles.css">
+<body>
+<div class="container">
+<div class="header">
+<h1>About Me</h1>
+</div><!-- end header-->
+<div class="image">
+<img src="img/profile.jpg">	
+</div><!-- end image-->
+<div class="intro column">
+<h2>Introduction</h2>
+<p>
+Hi Welcome to Acole General Management. We Are Glad to See You Here Today. 
+</p>
+</div><!-- end intro-->
+<div class="skills column">
 
-			<!--[if lt IE 9]>
-			<script src="dist/html5shiv.js"></script>
-			<![endif]-->			
-	</head>
-	<body>
-		<div class="container">
-			<div class="header">
-				<h1>About Me</h1>
-			</div><!-- end header-->
-			<div class="image">
-				<img src="img/profile.jpg">	
-			</div><!-- end image-->
-			<div class="intro column">
-				<h2>Introduction</h2>
-				<p>
-					Hi Welcome to Acole General Management. We Are Glad to See You Here Today. 
-				</p>
-			</div><!-- end intro-->
-			<div class="skills column">
-				<h3>Products</h3>
-				<ul id="skill-list">
-					<li>Web Development</li>
-					<li>Graphic Design</li>
-					<li>Domain Management</li>		
-				</ul><!--end skill-list-->
-			</div><!-- end skills-->
-			<div class="main-text">
-				<h3>More About Us</h3>
-
-<h3> Not done pass here </h3>
-				<p>
-					The company started by Aaron Cole In 2018, We are a company made out of grand rapids, michigan.
-				</p>
-			</div><!-- end main-text-->
-		</div><!--end container-->
-	</body>
+<h3>Products</h3>
+<ul id="skill-list">
+<li>Web Development</li>
+<li>Graphic Design</li>
+<li>Domain Management</li>		
+</ul><!--end skill-list-->
+</div><!-- end skills-->
+<div class="main-text">
+<h3>More About Us</h3>
+<p>	
+The company started by Aaron Cole In 2018, We are a company made out of grand rapids, michigan.
+</p>
+<p>
+I'm highly energetic and motivated person and I love to work as a member or a leader of a team. I especially enjoy working with changing projects and taking them forward with rapid pace but high precision. I am talkative and sociable but also known for getting "in the zone" while concentrating on detailed work like programming or designing.
+</p>
+</div><!-- end main-text-->
+</div><!--end container-->
+</body>
 </html>
